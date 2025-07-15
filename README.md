@@ -10,8 +10,8 @@
 - 📧 **Hubungi**: hadsxdev@gmail.com
 
 ## 🛠️ **Skillset**  
-- **Bahasa Pemrograman**: Python, JavaScript, Flutter Dart 
-- **Teknologi**: React, Node.js, Docker  
+- **Bahasa Pemrograman**: Python, JavaScript, Dart
+- **Teknologi**: React, Flutter, Node.js, Express.js, Flask
 - **Bahasa**: Bahasa Indonesia, Inggris, Jawa, Sunda
 
 ## 🌱 **Pengalaman**  
