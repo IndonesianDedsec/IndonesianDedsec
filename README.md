@@ -1,5 +1,5 @@
 # 🌟 Hadi Ramdhani  
-**[Deskripsi singkat tentang diri Anda]**  
+**Deskripsi singkat tentang diri Anda**  
 *"Developer passionate in building open-source tools for Indonesia 🇮🇩"*  
 
 ---
